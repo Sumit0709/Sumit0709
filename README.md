@@ -1,7 +1,7 @@
 <h2>Hi 👋, I am Sumit <span><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/></span></h2>
 <img src="https://komarev.com/ghpvc/?username=Sumit0709&style=plastic&color=blue&base=120" alt=""/> 
 <ul>
-<li>🔭 I’m currently working on MERN Project</li>
+<li>🔭 I’m currently working on MERN Project and learning DevOps</li>
 <li>😄 Pronouns: He/Him</li>
 </ul>
 <br/>
@@ -20,7 +20,10 @@
     <p dir="auto"><strong>Database Technologies</strong>: <code>MySQL</code> , <code>MongoDB</code> , <code>Apache Cassandra</code></p>
   </li>
   <li>
-    <p dir="auto"><strong>Backend Expertise</strong> : <code>Load Balancing</code> , <code>Rate Limiting</code> , <code>Microservices</code> , <code>Caching</code> </p>
+    <p dir="auto"><strong>Backend Expertise</strong> : <code>Load Balancing</code> , <code>Rate Limiting</code> , <code>Microservices</code> , <code>Caching</code> , <code>Kafka</code> </p>
+  </li>
+  <li>
+    <p dir="auto"><strong>DevOps</strong> : <code>Docker</code> , <code>Kubernetes</code></p>
   </li>
 </ul>
 
@@ -38,6 +41,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original.svg" title="Cassandra"  alt="Cassandra" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="GitHub" width="40" height="40"/>&nbsp;
+  
 </div>
 
 <br/>
