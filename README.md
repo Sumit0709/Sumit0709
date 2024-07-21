@@ -11,7 +11,7 @@
 ### 💻 My Skills include
 <ul dir="auto">
   <li>
-    <p dir="auto"><strong>Languages</strong>: <code>C++</code>,<code>C</code>, <code>JavaScript</code>, <code>Java</code></p>
+    <p dir="auto"><strong>Languages</strong>: <code>C++</code>, <code>JavaScript</code>, <code>Python</code></p>
   </li>
   <li>
     <p dir="auto"><strong>Web Technologies</strong>: <code>Html</code>,<code>Css</code>, <code>js</code>,<code>react</code>, <code>express</code>,<code>node</code></p>
@@ -20,10 +20,13 @@
     <p dir="auto"><strong>Database Technologies</strong>: <code>MySQL</code> , <code>MongoDB</code> , <code>Apache Cassandra</code></p>
   </li>
   <li>
-    <p dir="auto"><strong>Backend Expertise</strong> : <code>Load Balancing</code> , <code>Rate Limiting</code> , <code>Microservices</code> , <code>Caching</code> , <code>Kafka</code> </p>
+    <p dir="auto"><strong>Backend Expertise</strong> : <code>Load Balancing</code> , <code>Rate Limiting</code> , <code>Microservices</code> , <code>Caching</code> , <code>Message Queue</code> </p>
   </li>
   <li>
     <p dir="auto"><strong>DevOps</strong> : <code>Docker</code> , <code>Kubernetes</code></p>
+  </li>
+  <li>
+    <p dir="auto"><strong>Cloud</strong> : <code>AWS</code>
   </li>
 </ul>
 
@@ -43,6 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   
 </div>
 
