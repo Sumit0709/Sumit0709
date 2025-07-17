@@ -11,10 +11,10 @@
 ### 💻 My Skills include
 <ul dir="auto">
   <li>
-    <p dir="auto"><strong>Languages</strong>: <code>C++</code>, <code>JavaScript</code>, <code>Python</code></p>
+    <p dir="auto"><strong>Languages</strong>: <code>C++</code>, <code>Java</code>, <code>Python</code></p>
   </li>
   <li>
-    <p dir="auto"><strong>Web Technologies</strong>: <code>Html</code>,<code>Css</code>, <code>js</code>,<code>react</code>, <code>express</code>,<code>node</code></p>
+    <p dir="auto"><strong>Web Technologies</strong>: <code>Html</code>,<code>Css</code>, <code>JS</code>,<code>React</code>, <code>Express</code>,<code>Node</code>, <code>Spring</code>, <code>Spring Boot</code></p>
   </li>
   <li>
     <p dir="auto"><strong>Database Technologies</strong>: <code>MySQL</code> , <code>MongoDB</code> , <code>Apache Cassandra</code></p>
